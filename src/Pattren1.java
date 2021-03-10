@@ -9,7 +9,7 @@ public class Pattren1 {
 //			perulangan untuk mencetak jumlah '*'
 //			mengikuti pada baris keberapa / i
             for(j=1; j<=i; j++) {
-                System.out.print("*");
+                System.out.print(i);
             }
             System.out.println();
         }
